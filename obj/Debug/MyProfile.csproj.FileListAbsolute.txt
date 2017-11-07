@@ -1,0 +1,9 @@
+C:\Users\GARGI\Downloads\Docs\CTS DOTNET\MyProfile\MyProfile\MyProfile\bin\MyProfile.dll.config
+C:\Users\GARGI\Downloads\Docs\CTS DOTNET\MyProfile\MyProfile\MyProfile\bin\MyProfile.dll
+C:\Users\GARGI\Downloads\Docs\CTS DOTNET\MyProfile\MyProfile\MyProfile\bin\MyProfile.pdb
+C:\Users\GARGI\Downloads\Docs\CTS DOTNET\MyProfile\MyProfile\MyProfile\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\GARGI\Downloads\Docs\CTS DOTNET\MyProfile\MyProfile\MyProfile\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\GARGI\Downloads\Docs\CTS DOTNET\MyProfile\MyProfile\MyProfile\obj\Debug\MyProfile.csprojResolveAssemblyReference.cache
+C:\Users\GARGI\Downloads\Docs\CTS DOTNET\MyProfile\MyProfile\MyProfile\obj\Debug\MyProfile.csproj.CoreCompileInputs.cache
+C:\Users\GARGI\Downloads\Docs\CTS DOTNET\MyProfile\MyProfile\MyProfile\obj\Debug\MyProfile.dll
+C:\Users\GARGI\Downloads\Docs\CTS DOTNET\MyProfile\MyProfile\MyProfile\obj\Debug\MyProfile.pdb

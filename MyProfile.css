@@ -1,0 +1,95 @@
+﻿/*Background Image for the page*/
+body {
+    background-image: url('Images/background.jpg');
+}
+
+/*Underlining required elements*/
+.underline {
+    border-bottom: 5px solid #009688;
+}
+
+/*Teal font-color to required elements.*/
+.teal-text {
+    color: #009688 !important;
+}
+
+/*Teal background to required elements.*/
+.teal {
+    background-color: #009688 !important;
+}
+
+
+/*Making a text prominent*/
+blockquote {
+    border-left: 5px solid #795548;
+    color: #795548;
+    font-size: 125%;
+    font-weight: 400;
+    margin: 20px 0;
+    padding-left: 1.5rem;
+}
+
+/*Adding styles to the paragraphs*/
+p {
+    display: block;
+    -webkit-margin-start: 0px;
+}
+
+/*Adding Styles to the card*/
+.card{
+    border:medium;
+}
+
+/*Adding Styles to the headings*/
+h3 {
+    font-weight: 200;
+    margin-bottom: 60px;
+    margin-top: 0;
+    padding: 30px 40px;
+    padding-top:40px;
+    
+}
+
+/*White font-color to elements*/
+.white-text {
+    color: #FFFFFF !important;
+}
+
+
+/*Styling Sections*/
+.section {
+    padding-bottom: 30px;
+}
+
+/*Styling the Carousel Caption*/
+.carousel-caption {
+    position: absolute;
+    top: 10%;
+    right:20%;
+    font-size:larger;
+}
+
+/*Making the background color of a containers white*/
+.container{
+    background-color:white;
+}
+
+/*Shadow Effect on Hovering over a card*/
+.card:hover {
+    box-shadow: 5px 0px 40px rgba(0,0,0, .2);
+}
+
+
+.progress-bar-purple
+{
+    background-color:purple;
+}
+
+.card-reveal{
+    z-index:1;
+}
+
+.edu{
+    height:200px;    
+}
+
